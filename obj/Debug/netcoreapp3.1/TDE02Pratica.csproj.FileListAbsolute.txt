@@ -1,0 +1,28 @@
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.AssemblyInfo.cs
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.exe
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.deps.json
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.runtimeconfig.json
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.runtimeconfig.dev.json
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.dll
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.pdb
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.dll
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.pdb
+C:\Users\Jean\Desktop\JeanRamos\FACULDADE PARTE 2\Código de Alta Performance\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.genruntimeconfig.cache
+C:\Users\Jean\Desktop\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.exe
+C:\Users\Jean\Desktop\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.deps.json
+C:\Users\Jean\Desktop\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.runtimeconfig.json
+C:\Users\Jean\Desktop\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.runtimeconfig.dev.json
+C:\Users\Jean\Desktop\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.dll
+C:\Users\Jean\Desktop\TDE02Pratica\bin\Debug\netcoreapp3.1\TDE02Pratica.pdb
+C:\Users\Jean\Desktop\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.AssemblyInfo.cs
+C:\Users\Jean\Desktop\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.dll
+C:\Users\Jean\Desktop\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.pdb
+C:\Users\Jean\Desktop\TDE02Pratica\obj\Debug\netcoreapp3.1\TDE02Pratica.genruntimeconfig.cache
